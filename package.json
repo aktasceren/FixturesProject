@@ -1,0 +1,29 @@
+{
+  "name": "fixturesporject",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000i\u0000x\u0000t\u0000u\u0000r\u0000e\u0000s\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aktasceren/FixturesProject.git"
+  },
+  "author": "ceren aktas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aktasceren/FixturesProject/issues"
+  },
+  "homepage": "https://github.com/aktasceren/FixturesProject#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "prettier": "2.3.1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
+  }
+}
